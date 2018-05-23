@@ -16,7 +16,7 @@ The image details returned are:
 
 **Note: This WordPress plugin comes with absolutelty no warranty of any kind. Although it has passed my own testing on a handful of websites, using it is at your own risk. Always backup your database first, just in case.**
 
-[![N|Solid](https://michaelott.id.au/featured-image-details.gif)](https://rocketapps.com.au/)
+[![N|Solid](https://i.imgur.com/NGa5CHS.jpg)](https://rocketapps.com.au/)
 
 # Installation
 
