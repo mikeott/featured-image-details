@@ -2,7 +2,7 @@
 /*
 Plugin Name: Featured Image Details
 Plugin URI: https://michaelott.id.au
-Description: Qickly view details of the featured image.
+Description: Quickly view details of the featured image.
 Author: Michael Ott
 Version: 1.0
 Text Domain: fid
