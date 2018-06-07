@@ -1,6 +1,6 @@
 # Featured Image Details (WordPress)
 
-This WordPress plugin simply adds a new button next to the featured image that gives you quick access to the image details. I intially wrote this plugin for personal use, but have decided to share it for the benefit of madkind :-)
+This WordPress plugin simply adds a new button next to the featured image that gives you quick access to the image details. I intially wrote this plugin for personal use, but have decided to share it for the benefit of mankind :-)
 
 The image details returned are:
 
